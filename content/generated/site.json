@@ -1,0 +1,64 @@
+{
+  "readyForLaunch": true,
+  "siteName": "Evermore High Guide",
+  "shortName": "Evermore High",
+  "description": "Explore Evermore High on Roblox with a verified starting guide covering school life, classes, customization, campus navigation, updates, codes, and helpful.",
+  "language": "en",
+  "locale": "en_US",
+  "authorName": "Editorial Team",
+  "theme": {
+    "preset": "obsidian-red",
+    "overrides": {
+      "background": "221 51% 7%",
+      "foreground": "0 0% 99%",
+      "card": "221 51% 12%",
+      "card-foreground": "0 0% 99%",
+      "primary": "233 100% 74%",
+      "primary-foreground": "0 0% 0%",
+      "secondary": "221 51% 18%",
+      "muted": "221 51% 15%",
+      "muted-foreground": "0 0% 99%",
+      "border": "221 51% 23%",
+      "radius": ".75rem",
+      "card-shadow": "0 22px 70px hsl(233 100% 74% / .16)",
+      "hero-gradient": "radial-gradient(circle at 78% 14%, hsl(233 100% 74% / .2), transparent 36%)",
+      "background-pattern": "radial-gradient(hsl(233 100% 74% / .05) 1px, transparent 1px)",
+      "font-sans": "\"Source Sans 3\", ui-sans-serif, system-ui, sans-serif",
+      "font-heading": "\"Source Serif 4\", Georgia, Cambria, serif",
+      "heading-weight": "600",
+      "heading-letter-spacing": "-0.02em"
+    },
+    "skin": "dark-editorial",
+    "headerStyle": "solid",
+    "componentStyle": "sharp",
+    "accentColorId": "default",
+    "colorMode": "custom",
+    "background": "#090F1C",
+    "accent": "#7C8CFF",
+    "fontId": "source-serif"
+  },
+  "hosting": {
+    "siteUrl": "https://evermore-high.github.io",
+    "basePath": "",
+    "customDomain": null
+  },
+  "allowedExternalDomains": [
+    "www.roblox.com"
+  ],
+  "assets": {
+    "logo": "/images/evermore-high-logo.png",
+    "cover": "/images/evermore-high-cover.png",
+    "openGraph": "/images/evermore-high-og.svg",
+    "favicon": "/images/evermore-high-logo.png"
+  },
+  "game": {
+    "name": "Evermore High",
+    "platform": "Roblox",
+    "developer": "Paper Swan Games",
+    "genre": "",
+    "officialUrl": "https://www.roblox.com/games/138636753681976"
+  },
+  "seo": {
+    "titleTemplate": "%s | Evermore High Guide"
+  }
+}

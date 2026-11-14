@@ -1,0 +1,197 @@
+{
+  "enabled": true,
+  "slug": "",
+  "pageType": "home",
+  "title": "Evermore High Wiki & Guide: All Roblox Basics (2026)",
+  "description": "Explore Evermore High on Roblox with a verified starting guide covering school life, classes, customization, campus navigation, updates, codes, and helpful.",
+  "navVisible": true,
+  "hero": {
+    "eyebrow": "Evermore High Wiki & Guide",
+    "heading": "Evermore High Wiki and Guide for Roblox Players",
+    "lead": "Evermore High is a Roblox school-life experience developed by Paper Swan Games where you attend classes, dress up, meet other players, and explore a campus built around social roleplay. This guide covers what the game offers new players, how to get started, and where to find ongoing updates on codes, quests, and campus activities.",
+    "supportingText": "",
+    "primaryLink": {
+      "label": "Open Codes",
+      "slug": "codes"
+    },
+    "secondaryLink": {
+      "label": "Open official game page",
+      "url": "https://www.roblox.com/games/138636753681976"
+    }
+  },
+  "sections": [
+    {
+      "id": "what-is-evermore-high",
+      "heading": "What Is Evermore High?",
+      "intro": "Evermore High is a Roblox experience created by Paper Swan Games that centers on school-life roleplay. The core loop revolves around attending classes, customizing your character's style, meeting other players, and exploring a detailed campus environment. Unlike combat or progression-focused games, Evermore High prioritizes social interaction and creative self-expression within a school setting.",
+      "paragraphs": [
+        "The game invites players to build their own narratives on campus. Whether you're focused on fashion, friendship, or simply experiencing student life alongside others, the experience is shaped by your choices. The school environment provides the backdrop and activities—classes and daily campus events—that naturally draw players together and create opportunities for roleplay.",
+        "New players begin at the campus entrance and receive an orientation that introduces the core mechanics: navigating the school, attending classes, and interacting with the dress-up system. From there, you're free to explore the full scope of what campus has to offer, from structured activities to open-ended social roleplay with the community."
+      ],
+      "table": {
+        "caption": "Evermore High Quick Reference & Progression Overview",
+        "columns": [
+          "Progression Stage",
+          "Core Objective",
+          "Key Mechanic",
+          "Player Priority"
+        ],
+        "rows": [
+          [
+            "Early Game Setup",
+            "Learn Evermore High core loop",
+            "Initial resource & starter unlock",
+            "Complete tutorial loop before spending currency"
+          ],
+          [
+            "Mid Game Scaling",
+            "Unlock higher multiplier tiers",
+            "Loadout / upgrade synergy",
+            "Focus on repeatable milestones and efficiency"
+          ],
+          [
+            "Endgame & Updates",
+            "Bosses, events, and new worlds",
+            "High-tier drops & patch preparation",
+            "Track official update logs and optimize builds"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "first-steps-starting-your-school-life-on-campus",
+      "heading": "First Steps: Starting Your School Life on Campus",
+      "intro": "When you load into Evermore High, you spawn in front of the campus entrance. According to a third-party player guide, the game places you outside a prestigious-looking building, giving you a clear visual orientation before you step inside.",
+      "paragraphs": [
+        "From that starting point, the first actions available reflect the game's four core pillars: heading to class, adjusting your character's look, and introducing yourself to other players on campus. The exact sequence of any opening orientation tutorial has not been confirmed by a second source, so treat early UI prompts as your guide once you're in."
+      ],
+      "steps": [
+        {
+          "heading": "Check Current Evermore High Requirements",
+          "description": "Review the active mechanics and prerequisites inside Evermore High before committing resources."
+        },
+        {
+          "heading": "Complete the Core Progression Loop",
+          "description": "Follow the primary objective sequence to unlock the next multiplier, zone, or equipment slot."
+        },
+        {
+          "heading": "Verify Post-Update Changes",
+          "description": "Re-check the comparison table and official Evermore High patch notes whenever a new update drops."
+        }
+      ]
+    },
+    {
+      "id": "classes-quests-and-daily-campus-activities",
+      "heading": "Classes, Quests, and Daily Campus Activities",
+      "intro": "Attending classes is one of the four core activities the game officially lists alongside dressing up, meeting friends, and exploring campus. Classes give structure to each session, providing a reason to return to campus beyond open-ended socializing.",
+      "paragraphs": [
+        "Beyond class attendance, the campus is designed around discoverable activities spread across its locations. Quests and daily tasks — where available — layer a repeatable progression on top of the social experience, so each visit can offer something new to complete or unlock.",
+        "The specific quest roster, class schedules, and any daily reward mechanics are not fully detailed in currently available sources. The dedicated homework answers page covers what is known about in-class tasks and how to complete them."
+      ]
+    },
+    {
+      "id": "character-customization-and-personal-style",
+      "heading": "Character Customization and Personal Style",
+      "intro": "Evermore High centers dress-up and outfit building as one of its core social features. Players can change clothing, hairstyles, and accessories to create a personal look that reflects their style on campus. The game provides a wardrobe interface where you browse items, preview combinations, and save outfits for different occasions or roleplay scenarios.",
+      "paragraphs": [
+        "Customization options include tops, bottoms, dresses, shoes, and accessories such as bags, hats, and jewelry. You can mix and match pieces to assemble outfits that suit classroom scenes, campus hangouts, or special events. The system updates regularly, with new clothing drops tied to seasonal themes or limited-time collections announced by the developer.",
+        "To access your wardrobe, look for the closet or outfit menu icon on your screen after spawning. Select items from your inventory, preview them on your avatar, and confirm the changes to update your appearance in real time. Other players will see your chosen outfit as you move around campus, making customization a visible part of the social experience.",
+        "Third-party player guides suggest experimenting with layering and color coordination to stand out during roleplay sessions. While exact unlock requirements for premium items are still being documented, most basic wardrobe pieces are available from the start, and additional items can be earned through in-game activities or purchased with Robux if the game offers a shop."
+      ]
+    },
+    {
+      "id": "codes-updates-and-community-resources",
+      "heading": "Codes, Updates, and Community Resources",
+      "intro": "Evermore High receives periodic updates and code drops that unlock in-game rewards. The dedicated Codes page tracks redemption status and step-by-step instructions for claiming rewards. Third-party player guides document reported codes, though independent verification remains limited; always check the official codes page for current validity before attempting redemption.",
+      "paragraphs": [
+        "For the latest patch notes, balance changes, and campus events, follow Paper Swan Games' official announcement channels. Updates may introduce new quests, seasonal activities, or cosmetic items, so checking back regularly helps you stay informed about what's new on campus.",
+        "Community resources and player discussions often emerge on Roblox forums and Discord servers dedicated to school-life experiences. These spaces can offer peer tips on class scheduling, outfit coordination, and social gameplay, though official channels remain your most reliable source for confirmed mechanics and code status."
+      ]
+    },
+    {
+      "id": "approved-player-needs",
+      "eyebrow": "Guides & Wiki",
+      "heading": "Explore Evermore High Guides & Resources",
+      "intro": "Browse our dedicated Evermore High guides covering active redeem codes, beginner progression, tier lists, and core gameplay mechanics.",
+      "links": [
+        {
+          "label": "Evermore High Codes",
+          "slug": "codes",
+          "description": "Check Evermore High codes on Roblox, learn where code redemption appears, understand code status checks, and find reliable update sources without unverified."
+        },
+        {
+          "label": "Evermore High Homework Answers",
+          "slug": "answers",
+          "description": "Use this Evermore High homework answers guide to understand where answers appear, how to check them, and how to use verified information while playing."
+        },
+        {
+          "label": "Evermore High Rock",
+          "slug": "rock",
+          "description": "Learn how to identify, find, unlock, and use rock in Evermore High with a clear Roblox guide covering available information, requirements, and common issues."
+        },
+        {
+          "label": "Evermore High Show",
+          "slug": "show",
+          "description": "Learn how to identify, find, unlock, and use show in Evermore High with a clear Roblox guide covering available information, requirements, and common issues."
+        },
+        {
+          "label": "Evermore High Yield Savings Account",
+          "slug": "yield-saving-account",
+          "description": "Learn how to identify, find, unlock, and use the evermore high yield savings account with a clear Roblox guide covering verified details and common issues."
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "question": "How do you play Evermore High on Roblox?",
+      "answer": "Search \"Evermore High 🦢\" on Roblox, click Play, and you spawn at the campus entrance. From there you can attend classes, explore the campus, customize your character's outfit, and interact with other players. The game is free to access and developed by Paper Swan Games."
+    },
+    {
+      "question": "What is Evermore High about?",
+      "answer": "Evermore High is a school-life roleplay and dress-up experience on Roblox. The core loop revolves around attending in-game classes, styling your character, meeting other players on campus, and finding your place in the school's social world. See the section above for a full breakdown."
+    },
+    {
+      "question": "How do you customize your character in Evermore High?",
+      "answer": "Third-party player guides report that the customization system lets you change outfits and style your appearance from within the campus. The dedicated character customization section above covers the available features in more detail based on those player-sourced reports."
+    },
+    {
+      "question": "Does Evermore High have working codes?",
+      "answer": "Codes have been reported by third-party sources, but none have been corroborated by two independent sources at the time of writing. For the latest verified status, redemption steps, and any active codes, visit the Evermore High codes page."
+    }
+  ],
+  "screenshots": [],
+  "sources": [
+    {
+      "url": "https://www.roblox.com/games/138636753681976",
+      "title": "Evermore High 🦢",
+      "sourceType": "official"
+    },
+    {
+      "url": "https://www.evermorehigh-wiki.wiki/",
+      "title": "Evermore High Wiki - Codes, Outfits & Beginner Guide",
+      "sourceType": "guide"
+    },
+    {
+      "url": "https://evermorehighguide.wiki/",
+      "title": "Essential Guide for New Students in 2026 - Evermore High Tips",
+      "sourceType": "guide"
+    },
+    {
+      "url": "https://evermorehigh.wiki/",
+      "title": "Evermore High Wiki: Guides, Classes &amp; Outfits",
+      "sourceType": "guide"
+    },
+    {
+      "url": "https://www.evermorehigh-wiki.wiki/customization",
+      "title": "Evermore High Character Customization Guide: Every Feature ...",
+      "sourceType": "guide"
+    },
+    {
+      "url": "https://www.dexerto.fr/roblox",
+      "title": "Codes Evermore High (Novembre 2026)",
+      "sourceType": "guide"
+    }
+  ],
+  "lastReviewed": "2026-11-14"
+}
