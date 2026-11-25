@@ -135,7 +135,9 @@
       "answers",
       "rock",
       "show",
-      "yield-saving-account"
+      "yield-saving-account",
+      "classes",
+      "updates"
     ],
     "lastReviewed": "2026-11-14"
   },
@@ -256,7 +258,10 @@
       "codes",
       "rock",
       "show",
-      "yield-saving-account"
+      "yield-saving-account",
+      "homework",
+      "classes",
+      "updates"
     ],
     "lastReviewed": "2026-11-14"
   },
@@ -401,7 +406,10 @@
       "codes",
       "answers",
       "show",
-      "yield-saving-account"
+      "yield-saving-account",
+      "homework",
+      "school",
+      "updates"
     ],
     "lastReviewed": "2026-11-14"
   },
@@ -524,7 +532,10 @@
       "codes",
       "answers",
       "rock",
-      "yield-saving-account"
+      "yield-saving-account",
+      "homework",
+      "school",
+      "classes"
     ],
     "lastReviewed": "2026-11-14"
   },
@@ -642,8 +653,295 @@
       "codes",
       "answers",
       "rock",
-      "show"
+      "show",
+      "school"
     ],
     "lastReviewed": "2026-11-14"
+  },
+  {
+    "enabled": true,
+    "slug": "homework",
+    "pageType": "guide",
+    "navLabel": "Homework",
+    "title": "Evermore High Homework Guide (2026) – How It Works & Tips",
+    "description": "Evermore High Homework explained on Roblox: how it works, what it affects, the best way to use it and mistakes to avoid. Updated with full tables and tips.",
+    "navVisible": true,
+    "hero": {
+      "heading": "Evermore High Homework Guide: How It Works & Best Tips",
+      "lead": "To do Evermore High homework on Roblox, start by attending class and look for a question in the class activity. If a question appears, read it and follow the on-screen instructions to answer it. Use the instructions you see in that session rather than looking for a separate homework menu or assuming every class uses the same questions. For help with individual questions, see the Homework Answers guide. The steps and table below focus on what to do before answering, what to check afterward, and which results not to assume.",
+      "eyebrow": "Guide"
+    },
+    "sections": [
+      {
+        "id": "where-homework-fits-into-class",
+        "heading": "Where Homework Fits Into Class",
+        "intro": "Paper Swan Games lists attending classes as an activity in Evermore High, so class is the place to start when you want to encounter homework. Joining a class and finding a homework prompt are separate steps: attending gets you into the class activity, but it does not guarantee that a question will appear every time.",
+        "paragraphs": [
+          "Once you are in class, check the activity for an on-screen question before looking for a separate homework menu. If a prompt appears, use its displayed instructions; for help with specific questions, see the Evermore High Homework Answers guide. The game’s public description confirms classes are part of the experience, but does not describe a schedule or promise a prompt in every class."
+        ],
+        "table": {
+          "caption": "Evermore High Homework at a Glance",
+          "columns": [
+            "Topic",
+            "What you'll find"
+          ],
+          "rows": [
+            [
+              "Where Homework Fits Into Class",
+              "Paper Swan Games lists attending classes as an activity in Evermore High, so class is the place to start when you want to encounter homework."
+            ],
+            [
+              "How to Answer a Homework Prompt During Class",
+              "Evermore High homework answers are submitted during class sessions."
+            ],
+            [
+              "What Homework Tells You About Progress",
+              "Answering an Evermore High homework question is not the same as seeing your progress change."
+            ]
+          ]
+        }
+      },
+      {
+        "id": "how-to-answer-a-homework-prompt-during-class",
+        "heading": "How to Answer a Homework Prompt During Class",
+        "intro": "Evermore High homework answers are submitted during class sessions. When a question appears, read the entire prompt before responding so you can match your answer to what the game is asking. Follow the response controls shown in that session; the available controls and question format may vary, so rely on the on-screen instructions rather than expecting a particular button or layout.",
+        "paragraphs": [
+          "After responding, pause to read any message the game displays. A response acknowledgment tells you the game registered an action, while a separate completion or progress message should be treated as confirmation only if it explicitly says so. Do not assume that answering a question automatically grants a reward or advances a particular goal.",
+          "For help with a specific question, use the Evermore High Homework Answers guide. Keep the class prompt in view and compare its wording with the relevant answer there; this section covers the in-class response process, not a list of question answers."
+        ]
+      },
+      {
+        "id": "what-homework-tells-you-about-progress",
+        "heading": "What Homework Tells You About Progress",
+        "intro": "Answering an Evermore High homework question is not the same as seeing your progress change. If the game shows feedback, check whether it refers to your answer, the activity you just completed, or a change to your progress.",
+        "paragraphs": [
+          "Answering an Evermore High homework question is not the same as seeing your progress change. If the game shows feedback, check whether it refers to your answer, the activity you just completed, or a change to your progress."
+        ],
+        "bullets": [
+          "If you submitted an answer but saw no feedback, you know you attempted the question. The lack of a message does not tell you whether the answer was accepted or whether it counted toward anything else.",
+          "If a message acknowledges your answer, take it at face value. Confirmation that your answer was received is not the same as confirmation that it was correct. Likewise, a message saying you completed an activity does not on its own tell you that you advanced.",
+          "If a message explicitly reports a progress change or a reward, check what it applies to. Treat it as the result shown for that activity, not as a promise that another question or class will produce the same result."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "How does homework work in Evermore High?",
+        "answer": "Homework is associated with questions you respond to during a class session. Treat the question in front of you as the task: read what it asks, then respond using the instructions the class displays. If you look up a question, match its wording before using an answer."
+      }
+    ],
+    "relatedSlugs": [
+      "answers",
+      "rock",
+      "show"
+    ],
+    "lastReviewed": "2026-11-25",
+    "parentSlug": "",
+    "screenshots": []
+  },
+  {
+    "enabled": true,
+    "slug": "school",
+    "pageType": "guide",
+    "navLabel": "School",
+    "title": "Evermore High School Explained (2026) – Mechanics | Guide",
+    "description": "School in Evermore High on Roblox: how it works, step-by-step tips and what experienced players do differently. Includes updated tables and progression tips.",
+    "navVisible": true,
+    "hero": {
+      "heading": "Evermore High School Explained: Mechanics, Tips & Mistakes",
+      "lead": "In Evermore High, school means attending classes, but attending a class is not by itself proof that you unlocked anything. Start with one class and check what the game asks you to do before planning your session around it. If an instruction appears, follow it before deciding whether simply showing up was enough. Afterward, check whether the game reports a completed task or shows a change tied to your goal. The checklist and comparison table below separate what you did from what the game actually counted.",
+      "eyebrow": "Guide"
+    },
+    "sections": [
+      {
+        "id": "attending-class-is-the-school-activity",
+        "heading": "Attending Class Is the School Activity",
+        "intro": "Evermore High lists attending classes as one of its campus activities. That makes class attendance a way to participate in school, alongside the game’s other listed activities, but the description does not promise that showing up alone grants a grade, reward, or unlock.",
+        "paragraphs": [
+          "For a practical class session, follow any instruction the game displays, then check whether it marks a task complete or shows a change related to your goal. Keep attendance separate from the outcome you want: only treat a class as progress toward that goal when the game confirms it. The specific class schedule and any attendance-based rewards or unlocks are not established here."
+        ],
+        "table": {
+          "caption": "Evermore High School at a Glance",
+          "columns": [
+            "Topic",
+            "What you'll find"
+          ],
+          "rows": [
+            [
+              "Attending Class Is the School Activity",
+              "Evermore High lists attending classes as one of its campus activities."
+            ],
+            [
+              "Treat Homework Questions as a Separate Task",
+              "A class question and class attendance are not the same task."
+            ]
+          ]
+        }
+      },
+      {
+        "id": "treat-homework-questions-as-a-separate-task",
+        "heading": "Treat Homework Questions as a Separate Task",
+        "intro": "A class question and class attendance are not the same task. Evermore High describes homework answers as responses submitted during class sessions, but that does not establish that every class includes a question or that attendance alone completes one. If a question appears, use its exact wording to identify the matching answer before submitting anything; a similar-sounding prompt may ask for something different.",
+        "paragraphs": [
+          "Keep the steps separate: first take part in the class, then respond to any homework question the game presents. Check the on-screen prompt rather than assuming a question is required, and look for the game’s own confirmation after submitting a response. The available details do not establish a universal question set, answer format, grading rule, or reward, so avoid treating any one answer list as applying to every class.",
+          "For a specific prompt, use the Evermore High homework answers guide and match the wording there to the question in your session. If the prompt does not match, do not substitute an answer for a different question; rely on what the game currently displays. This keeps class participation distinct from answering homework without assuming that either action automatically unlocks progression."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "Is school worth it in Evermore High?",
+        "answer": "Yes, if you want to roleplay as a student: joining a class gives you a concrete activity for that session, even if you are not chasing an unlock. If you are deciding how to spend your time for a particular reward, that is a separate goal."
+      }
+    ],
+    "relatedSlugs": [
+      "rock",
+      "show",
+      "yield-saving-account"
+    ],
+    "lastReviewed": "2026-11-25",
+    "parentSlug": "",
+    "screenshots": []
+  },
+  {
+    "enabled": true,
+    "slug": "classes",
+    "pageType": "database",
+    "navLabel": "Classes",
+    "title": "How To Come To Class Prepared In Evermore High (2026)",
+    "description": "How To Come To Class Prepared In Evermore High on Roblox: the quickest method step by step, what you need first. Includes updated tables and progression tips.",
+    "navVisible": true,
+    "hero": {
+      "heading": "How To Come To Class Prepared In Evermore High: Step-by-Step Guide",
+      "lead": "If you’re wondering how to come to class prepared in Evermore High, start by attending class and checking what the session asks you to do. Attending class is a starting point, not proof that you’ve cleared a separate preparation objective. If the session gives you a task, use its exact wording to decide what to do next rather than collecting items in advance. When homework appears during class, treat the question as a separate task. The checklist below covers what to check before class, during the session, and after it ends.",
+      "eyebrow": "Database"
+    },
+    "sections": [
+      {
+        "id": "start-by-attending-class",
+        "heading": "Start by Attending Class",
+        "intro": "Begin by attending a class in Evermore High. Paper Swan Games lists attending classes as one of the experience’s activities, alongside dressing up, meeting friends, and finding your place on campus. This makes class attendance a clear first step when you want to take part in a school session.",
+        "paragraphs": [
+          "Treat attendance as participation, not as proof that a separate “come prepared” objective has been completed. The available class information does not establish a preparation checklist or say that you must bring particular items beforehand. Check the instruction shown in the game when you enter a session, and follow that task rather than preparing based on assumptions.",
+          "Classes sit alongside the game’s other campus activities, so you can return to exploring, socializing, or changing your outfit after your session. For the next class-specific actions, use the instruction that appears during the session; homework questions, if shown, are a separate task."
+        ],
+        "table": {
+          "caption": "How To Come To Class Prepared In Evermore High at a Glance",
+          "columns": [
+            "Topic",
+            "What you'll find"
+          ],
+          "rows": [
+            [
+              "Start by Attending Class",
+              "Begin by attending a class in Evermore High."
+            ],
+            [
+              "During Class: Separate the Session Task From Homework",
+              "Once you are in class, read any instruction shown for that session and follow its wording."
+            ]
+          ]
+        }
+      },
+      {
+        "id": "during-class-separate-the-session-task-from-homework",
+        "heading": "During Class: Separate the Session Task From Homework",
+        "intro": "Once you are in class, read any instruction shown for that session and follow its wording. Do not assume that attending alone completes a separate preparation task; check what the game asks you to do before deciding you are finished.",
+        "paragraphs": [
+          "Treat homework as a separate class activity. If a question appears, answer it through the in-game prompt rather than assuming that it is the same task as the session instruction. The available guidance places homework responses during class, but does not establish a universal question set or answer-entry method.",
+          "For Art or History, use the task displayed in your own session. The subject name alone does not establish which activity or answers are required, so avoid preparing an assumed answer in advance. If no instruction or question appears, continue with the class session and check again if another prompt is shown."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "What do you need first in Evermore High?",
+        "answer": "Start with a class session. If you’re following an objective, keep its wording handy so you can check whether it asks for attendance or a specific action. Don’t buy or equip something just because it sounds like a school supply; look for the task to name it first."
+      },
+      {
+        "question": "Does answering homework count as coming to class prepared?",
+        "answer": "Homework is answered during class. If you’re also tracking a preparation objective, check that objective separately after answering. Feedback on your response tells you about the question; don’t take it as confirmation that a different task is complete unless the game shows that it is."
+      }
+    ],
+    "relatedSlugs": [
+      "show",
+      "answers",
+      "codes"
+    ],
+    "lastReviewed": "2026-11-25",
+    "parentSlug": "",
+    "screenshots": []
+  },
+  {
+    "enabled": true,
+    "slug": "updates",
+    "pageType": "updates",
+    "navLabel": "Updates",
+    "title": "My Reviews + New Updates In ✨Evermore High 🍂 I ... (2026)",
+    "description": "Latest Evermore High update on Roblox: patch notes, new content, balance changes and fixes, plus when to expect the next update. Includes full tables and tips.",
+    "navVisible": true,
+    "hero": {
+      "heading": "My Reviews + New Updates In ✨Evermore High 🍂 I ...: Latest Patch Notes & What's New",
+      "lead": "The latest Evermore High update cannot be identified from the available patch information: no dated notes, feature additions, removals, balance changes, or fixes are confirmed here. That means there is no supported change list or last-update date to report. Check the official Evermore High Roblox experience page for announcements before relying on claims about new content. The sections below separate confirmed update details from information that is unavailable and explain how to assess a future announcement; no next-update date is confirmed.",
+      "eyebrow": "Updates"
+    },
+    "sections": [
+      {
+        "id": "new-content-and-features-listed-by-the-developer",
+        "heading": "New Content and Features Listed by the Developer",
+        "intro": "The official Evermore High description highlights going to class, putting together outfits, making friends, and finding your place on campus. It presents these as things to do in the experience, not as additions in a particular update.",
+        "paragraphs": [
+          "If a post calls classes or dress-up new, look for what it says was added. A new class or a new outfit would be a more specific claim than the description makes. Likewise, the invitation to find your place on campus doesn’t announce a new area. Treat the description as an overview of what you can do, not a record of when those activities arrived."
+        ],
+        "table": {
+          "caption": "My Reviews + New Updates In ✨Evermore High 🍂 I ... at a Glance",
+          "columns": [
+            "Topic",
+            "What you'll find"
+          ],
+          "rows": [
+            [
+              "New Content and Features Listed by the Developer",
+              "The official Evermore High description highlights going to class, putting together outfits, making friends, and finding your place on campus."
+            ],
+            [
+              "Update History and How to Check a Patch Announcement",
+              "No dated Evermore High patch notes are confirmed here, so there is no verified update history or change list to report."
+            ]
+          ]
+        }
+      },
+      {
+        "id": "update-history-and-how-to-check-a-patch-announcement",
+        "heading": "Update History and How to Check a Patch Announcement",
+        "intro": "No dated Evermore High patch notes are confirmed here, so there is no verified update history or change list to report. The official experience description names attending classes, dressing up, meeting friends, and finding your place on campus, but does not identify these as new additions or tie them to a particular update.",
+        "paragraphs": [
+          "When a developer announcement is available, record its publication date and the changes it explicitly lists. Separate additions, removals, balance adjustments, and fixes, and note any stated effect on existing progress. Do not treat the game’s general feature description as patch notes, or infer a release date from an undated announcement.",
+          "Check the official Evermore High Roblox experience page for announcements. Before relying on a claimed change, confirm that the post is from the developer and read its wording in full; a feature mention alone does not establish when it was added or whether it changes progression."
+        ]
+      }
+    ],
+    "faq": [
+      {
+        "question": "When was the last Evermore High update?",
+        "answer": "A last-update date is not established by the available information. The official experience description lists the game’s activities but does not provide a dated patch history, so check the Roblox experience page for a dated announcement before treating any date as confirmed."
+      },
+      {
+        "question": "What changed in the latest Evermore High update?",
+        "answer": "No specific update changes are established here. The official description mentions attending classes, dressing up, meeting new friends, and finding your place on campus, but it does not identify those activities as additions or changes from a recent patch."
+      },
+      {
+        "question": "When is the next Evermore High update?",
+        "answer": "No upcoming release date is provided in the available information. Use a dated announcement from the official Evermore High Roblox experience page if one appears; without one, a predicted date would not be reliable."
+      }
+    ],
+    "relatedSlugs": [
+      "codes",
+      "answers",
+      "rock"
+    ],
+    "lastReviewed": "2026-11-25",
+    "parentSlug": "",
+    "screenshots": []
   }
 ]
